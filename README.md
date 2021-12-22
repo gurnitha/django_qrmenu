@@ -66,3 +66,15 @@
         new file:   qrmenu_backend/settings.py
         new file:   qrmenu_backend/urls.py
         new file:   qrmenu_backend/wsgi.py
+
+
+#### 5. Django Admin Dashboard
+
+        Steps:
+
+        1. Jalankan perintah migrasi untuk membuat tabel-tabel default
+        2. Membuat superuser
+        3. Jalankan server
+        4. Login ke admin dashboard
+
+        modified:   README.md
