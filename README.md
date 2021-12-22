@@ -78,3 +78,23 @@
         4. Login ke admin dashboard
 
         modified:   README.md
+
+
+#### 6.1 Django App
+
+
+        Steps:
+
+        1. Membuat django app dgn nama 'core'
+        2. Install/registrasikan django app 'core' pada proyek (settings.py)
+        3. Jalankan server untuk menguji hasilnya
+
+        modified:   README.md
+        new file:   core/__init__.py
+        new file:   core/admin.py
+        new file:   core/apps.py
+        new file:   core/migrations/__init__.py
+        new file:   core/models.py
+        new file:   core/tests.py
+        new file:   core/views.py
+        modified:   qrmenu_backend/settings.py
