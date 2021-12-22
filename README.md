@@ -98,3 +98,21 @@
         new file:   core/tests.py
         new file:   core/views.py
         modified:   qrmenu_backend/settings.py
+
+
+#### 6.2 Install djoser
+
+
+        Steps:
+
+        1. Instal djoser
+           > pip install djoser==2.1.0
+        2. Register djoser pada settings.py
+        3. Configure rest_framework pada settings.py
+        4. Buat path untuk djoser pada qrmenu_backend/urls.py
+        5. Jalan migrasi
+        6. Jalankan server untuk menguji hasilnya
+
+        modified:   README.md
+        modified:   qrmenu_backend/settings.py
+        modified:   qrmenu_backend/urls.py
