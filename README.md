@@ -2,7 +2,7 @@
 
 
 #### DAY:1 - 22/12/21
-
+---------------------
 
 #### 1. Apa yang akan kita buat?
 
@@ -116,3 +116,27 @@
         modified:   README.md
         modified:   qrmenu_backend/settings.py
         modified:   qrmenu_backend/urls.py
+
+
+
+#### DAY:2 - 23/12/21
+---------------------
+
+
+#### 7. Git
+
+
+        Steps:
+
+        1. Membuat requirements.txt file
+           > pip freeze > requirements.txt
+        2. Membuat .gitignore file
+        3. Membuat daftar files untuk di-ignore oleh git
+        4. Membuat local repositori
+        5. Membuat account pada Github
+        6. Mengupload files pada Gihub
+        
+        modified:   .gitignore
+        modified:   README.md
+        new file:   requirements.txt
+
